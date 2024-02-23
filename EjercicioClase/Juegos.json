@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Monopoly",
+        "tiempoPartida": 120,
+        "cantJugadores": 6,
+        "cantJuegos": 10
+    },
+    {
+        "nombre": "tiktaktoe",
+        "tiempoPartida": 5,
+        "cantJugadores": 2,
+        "cantJuegos": 8
+    },
+    {
+        "nombre": "Kellycita",
+        "tiempoPartida": 90,
+        "cantJugadores": 2,
+        "cantJuegos": 1
+    }
+]
